@@ -1,9 +1,13 @@
 _repo: Sparky-Ames-of-the-Ferry-Command-Sparky-Ames-and-Mary-Mason-of-the-Ferry-Command_47793
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Darwin, Erwin L.
     gutenberg_agent_id: '44472'
     url: http://www.gutenberg.org/2009/agents/44472
+covers:
+- cover_type: archival
+  image_path: 47793-h/images/cover.jpg
 creator:
   author:
     agent_name: Snell, Roy J. (Roy Judson)
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '3593'
     url: http://www.gutenberg.org/2009/agents/3593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47793#Sparky-Ames-of-the-Ferry-Command-Sparky-Ames-and-Mary-Mason-of-the-Ferry-Command
 gutenberg_issued: '2014-12-27'
 gutenberg_type: Text
 identifiers:
